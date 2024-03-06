@@ -355,5 +355,6 @@ public class MyUnsortedListTest {
 		expectedToString = "MyUnsortedList { size = 2, [1, 2] }";
 
 		assertEquals(expectedToString, unsortedIntList.toString());
+
 	}
 }
